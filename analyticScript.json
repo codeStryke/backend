@@ -1,0 +1,218 @@
+[
+  {
+    "name": "LOGIN",
+    "description": "analytic.tag.login.description: TODO"
+  },
+  {
+    "name": "LOGIN_POPUP",
+    "description": "analytic.tag.login.popup.description: TODO"
+  },
+  {
+    "name": "RELOGIN",
+    "description": "analytic.tag.relogin.description: TODO"
+  },
+  {
+    "name": "SIGNUP",
+    "description": "analytic.tag.signup.description: TODO"
+  },
+  {
+    "name": "BAAS_SIGNUP",
+    "description": "analytic.tag.baas.signup.description: TODO"
+  },
+  {
+    "name": "EMAIL_SUBMITTED",
+    "description": "analytic.tag.email.submitted.description: TODO"
+  },
+  {
+    "name": "ACTIVATION",
+    "description": "analytic.tag.activation.description: TODO"
+  },
+  {
+    "name": "ACTIVATION_SUCCESS",
+    "description": "analytic.tag.activation.success.description: TODO"
+  },
+  {
+    "name": "MY_APPS",
+    "description": "analytic.tag.my.apps.description: TODO"
+  },
+  {
+    "name": "HOME",
+    "description": "analytic.tag.home.description: TODO"
+  },
+  {
+    "name": "LISTING",
+    "description": "analytic.tag.listing.description: TODO"
+  },
+  {
+    "name": "PRODUCT",
+    "description": "analytic.tag.product.description: TODO"
+  },
+  {
+    "name": "PRODUCT_OVERVIEW",
+    "description": "analytic.tag.product.overview.description: TODO"
+  },
+  {
+    "name": "PRODUCT_FEATURES",
+    "description": "analytic.tag.product.features.description: TODO"
+  },
+  {
+    "name": "PRODUCT_REVIEWS",
+    "description": "analytic.tag.product.reviews.description: TODO"
+  },
+  {
+    "name": "WRITE_REVIEW",
+    "description": "analytic.tag.write.review.description: TODO"
+  },
+  {
+    "name": "PRODUCT_QUESTIONS",
+    "description": "analytic.tag.product.questions.description: TODO"
+  },
+  {
+    "name": "PRODUCT_SUPPORT",
+    "description": "analytic.tag.product.support.description: TODO"
+  },
+  {
+    "name": "PRODUCT_RESOURCES",
+    "description": "analytic.tag.product.resources.description: TODO"
+  },
+  {
+    "name": "PRODUCT_EDITIONS",
+    "description": "analytic.tag.product.editions.description: TODO"
+  },
+  {
+    "name": "PRODUCT_SETTINGS",
+    "description": "analytic.tag.product.settings.description: TODO"
+  },
+  {
+    "name": "PRODUCT_TERMS",
+    "description": "analytic.tag.product.terms.description: TODO"
+  },
+  {
+    "name": "BUNDLE",
+    "description": "analytic.tag.bundle.description: TODO"
+  },
+  {
+    "name": "CONFIRM_FREE_TRIAL",
+    "description": "analytic.tag.confirm.free.trial.description: TODO"
+  },
+  {
+    "name": "STANDING_CLOUD_CUSTOMIZER",
+    "description": "analytic.tag.standing.cloud.customizer.description: TODO"
+  },
+  {
+    "name": "CREATE_ORDER",
+    "description": "analytic.tag.create.order.description: TODO"
+  },
+  {
+    "name": "BILLING_DETAILS",
+    "description": "analytic.tag.billing.details.description: TODO"
+  },
+  {
+    "name": "CONFIRM_ORDER",
+    "description": "analytic.tag.confirm.order.description: TODO"
+  },
+  {
+    "name": "APPROVE_ORDER",
+    "description": "analytic.tag.approve.order.description: TODO"
+  },
+  {
+    "name": "ORDER_RECEIPT",
+    "description": "analytic.tag.order.receipt.description: TODO"
+  },
+  {
+    "name": "MANAGE_APPS",
+    "description": "analytic.tag.manage.apps.description: TODO"
+  },
+  {
+    "name": "MANAGE_APP",
+    "description": "analytic.tag.manage.app.description: TODO"
+  },
+  {
+    "name": "MANAGE_APPS_CANCEL",
+    "description": "analytic.tag.manage.apps.cancel.description: TODO"
+  },
+  {
+    "name": "MANAGE_APP_OVERVIEW",
+    "description": "analytic.tag.manage.app.overview.description: TODO"
+  },
+  {
+    "name": "MANAGE_APP_UPDATE_EDITION",
+    "description": "analytic.tag.manage.app.update.edition.description: TODO"
+  },
+  {
+    "name": "MANAGE_APP_BILLING_HISTORY",
+    "description": "analytic.tag.manage.app.billing.history.description: TODO"
+  },
+  {
+    "name": "MANAGE_APP_USERS",
+    "description": "analytic.tag.manage.app.users.description: TODO"
+  },
+  {
+    "name": "APPS_AND_BUNDLES_LANDING",
+    "description": "analytic.tag.apps.and.bundles.landing.description: TODO"
+  },
+  {
+    "name": "ACCOUNT_DASHBOARD",
+    "description": "analytic.tag.account.dashboard.description: TODO"
+  },
+  {
+    "name": "ACCOUNT_ASSIGN",
+    "description": "analytic.tag.account.assign.description: TODO"
+  },
+  {
+    "name": "ACCOUNT_BILLING",
+    "description": "analytic.tag.account.billing.description: TODO"
+  },
+  {
+    "name": "ACCOUNT_BILLING_INFO",
+    "description": "analytic.tag.account.billing.info.description: TODO"
+  },
+  {
+    "name": "ACCOUNT_COMPANY",
+    "description": "analytic.tag.account.company.description: TODO"
+  },
+  {
+    "name": "COMPANY",
+    "description": "analytic.tag.company.description: TODO"
+  },
+  {
+    "name": "COMPANY_DIRECTORY",
+    "description": "analytic.tag.company.directory.description: TODO"
+  },
+  {
+    "name": "ADD_USERS_PANEL",
+    "description": "analytic.tag.add.users.panel.description: TODO"
+  },
+  {
+    "name": "PRIVACY",
+    "description": "analytic.tag.privacy.description: TODO"
+  },
+  {
+    "name": "CONDITIONS",
+    "description": "analytic.tag.conditions.description: TODO"
+  },
+  {
+    "name": "DEALS",
+    "description": "analytic.tag.deals.description: TODO"
+  },
+  {
+    "name": "HELP",
+    "description": "analytic.tag.help.description: TODO"
+  },
+  {
+    "name": "ERROR",
+    "description": "analytic.tag.error.description: TODO"
+  },
+  {
+    "name": "HEADER",
+    "description": "analytic.tag.header.description: TODO"
+  },
+  {
+    "name": "BODY",
+    "description": "analytic.tag.body.description: TODO"
+  },
+  {
+    "name": "FOOTER",
+    "description": "analytic.tag.footer.description: TODO"
+  }
+]
