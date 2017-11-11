@@ -1,0 +1,32 @@
+{
+  "name": "LOGIN",
+  "description": "analytic.tag.login.description: TODO",
+  "parameters": [],
+  "currentVersion": {
+    "content": "<Script>\n  empty6\n</Script>",
+    "changeBy": "id@id.com",
+    "timestamp": 1510257059000
+  },
+  "previousVersions": [
+    {
+      "content": "<Script>\n  empty5\n</Script>",
+      "changeBy": "id@id.com",
+      "timestamp": 1510257041000
+    },
+    {
+      "content": "<Script>\n  empty4\n</Script>",
+      "changeBy": "id@id.com",
+      "timestamp": 1510257025000
+    },
+    {
+      "content": "<Script>\n  empty3\n</Script>",
+      "changeBy": "id@id.com",
+      "timestamp": 1510256927000
+    },
+    {
+      "content": "<Script>\n  empty\n</Script>",
+      "changeBy": "id@id.com",
+      "timestamp": 1510256284000
+    }
+  ]
+}
