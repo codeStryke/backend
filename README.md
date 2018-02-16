@@ -1,4 +1,3 @@
 # backend
 
-stub backend server for quick prototyping
-uses https://serverjs.io/
+stub backend server (https://serverjs.io/) for quick prototyping
