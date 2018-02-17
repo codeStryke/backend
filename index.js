@@ -1,7 +1,7 @@
 const server = require("server");
 const middleware = require("./middleware");
 const { get, post, put, del } = require("server/router");
-const { json } = require("server/reply");
+const { json, send, status } = require("server/reply");
 const got = require("got");
 
 const analyticScriptResponseJSON = require("./analyticScript");
@@ -15,7 +15,7 @@ const getBootstrapContext = async ctx => {
     const response = await got(
       "https://marketplace.appdirect.com/api/session/v1/bootstrap-context"
     );
-    return json(response.body);
+    return status(200).send(response.body);
   } catch (error) {
     console.log(error.response.body);
   }
